@@ -8,7 +8,6 @@ https://labeninjas-grupo6.surge.sh/
 Tecnologias utilizadas:
 <ul>
 <li>HTML, 
-<li>CSS, 
 <li>JavaScript, 
 <li>CSS, 
 <li>React, 
